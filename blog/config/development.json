@@ -1,0 +1,8 @@
+{
+    "db": {
+        "user": "lixin",
+        "host": "localhost",
+        "port": "27017",
+        "name": "blog"
+    }
+}
